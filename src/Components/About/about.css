@@ -1,0 +1,32 @@
+.about-container{
+    border-radius: 10px;
+    background-color: rgb(225, 225,225, 0.2) ;
+    width: 50%;
+    margin: 2%;
+    padding: 2%;
+    text-align: start;
+}
+p{
+    font-size: 20px;
+}
+
+.profile-pic-container{
+    width: 30%;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.about-wrapper{
+    display: flex;
+    justify-content: center;
+
+}
+
+.pp{
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+}
