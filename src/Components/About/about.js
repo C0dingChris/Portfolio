@@ -16,10 +16,13 @@ export default class about extends Component {
               Full-stack developer with a passion for crafting visually stunning
               and intuitive user-interfaces.
             </p>
+            <br></br>
             <p>
               I have a proven track record over the last 3+ years of delivering
               high-quality, responsive websites and web applications.
             </p>
+            <br></br>
+
             <p>
               My specialism lies in front-end development. I have a deep
               understanding of leveraging React, CSS, and Java Script to create
@@ -28,6 +31,7 @@ export default class about extends Component {
               Adobe Suite, which allows me to enhance the visual aspect of my
               projects.
             </p>
+            <br></br>
             <p>
               I have cross-industry design experience including automotive,
               construction and music industries. I have worked in corporate and
@@ -35,11 +39,13 @@ export default class about extends Component {
               key eye for detail. My adaptability to different project
               requirements make me a valuable asset to any team.
             </p>
+            <br></br>
             <p>
               {" "}
               In addition to my technical skills, I am a strong team player and
               excellent communicator.
             </p>
+            <br></br>
           </div>
         </div>
       </div>

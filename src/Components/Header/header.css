@@ -1,22 +1,15 @@
-h1{
-    font-size: 84px;
-}
+
 
 .header-wrapper{
- width: 100%;
- align-items: center;
- justify-content: center;
- padding: auto;
- display: flex;
- flex-direction: column;
- 
-
-}
-
-.blob-svg{
- 
-}
-
-.container-boss{
     display: flex;
+    align-items: center;
+    justify-content: center;
+  
 }
+
+  
+  .Blob {
+    flex: 1;
+    max-width: 100%;
+    height: auto;
+  }

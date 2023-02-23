@@ -1,0 +1,18 @@
+
+.sectionClass{
+   position: static;
+    display: flex;  
+    align-items: center;
+    min-height: 60vh;
+}
+
+.blob{
+    position:absolute;
+    width: 500px;
+    height: 500px;
+}
+
+.blob:nth-child(2){
+    filter: blur(60px);
+
+}
