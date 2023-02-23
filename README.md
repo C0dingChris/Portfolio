@@ -4,9 +4,6 @@ This repository contains a collection of projects that I have worked on
 <h1>Projects</h1>
 Here's a list of the projects included in this portfolio:
 
-Project 1: Description of project 1.
-Project 2: Description of project 2.
-Project 3: Description of project 3.
 
 
 
