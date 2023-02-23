@@ -5,7 +5,6 @@ import Contact from "./Components/Contact/contact";
 import Projects from "./Components/Projects/projects";
 import Spacer from "./Components/Spacer/spacer";
 import Header from "./Components/Header/header";
-import Footer from "./Components/Footer/footer";
 
 function App() {
   return (
