@@ -3,8 +3,9 @@
 .header-wrapper{
     display: flex;
     align-items: center;
+    align-self: center;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
     margin-top: 8rem;
 }
 
@@ -12,12 +13,5 @@
 
   
 
-  @media screen and (min-width: 500px) {
-    .header-wrapper{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      margin-top: 8rem;
-  }
-  }
+  
+  

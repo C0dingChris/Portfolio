@@ -1,7 +1,7 @@
 .about-container{
     border-radius: 10px;
-    background-color: rgb(225, 225,225, 0.2) ;
-    width: 100%;
+    background-color: rgba(225, 225,225, 0.2) ;
+    width: 50%;
   
     margin: 4%;
     padding: 1rem;
@@ -10,7 +10,23 @@
   
 }
 
-
+@media screen and (max-width: 726px) {
+    .about-wrapper {
+      display: flex;
+      flex-direction: column;
+      
+      
+    }
+    .about-container{
+        border-radius: 10px;
+        background-color: rgba(225, 225,225, 0.2) ;
+        min-width: 95%;
+  
+        padding: 2%;
+        text-align: start;
+        justify-content: center;
+    }
+  }
 p{
     font-size: 20px;
 }
