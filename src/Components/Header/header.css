@@ -1,13 +1,38 @@
 
 
 .header-wrapper{
-    display: flex;
-    align-items: center;
-    align-self: center;
-    justify-content: center;
-    flex-direction: column;
-    margin-top: 8rem;
+  display: flex;
+  margin-top: 8rem;
+  flex-direction: row;
+ 
+    
 }
+
+.glowtext{
+  color: blue;
+}
+
+
+
+.header-text{
+padding: 10px;
+flex: 80%;
+text-align: left;
+}
+
+.blob-container{
+padding: 10px;
+flex: 20%;
+}
+
+@media (max-width: 500px) {
+  .header-wrapper {
+    flex-direction: column;
+
+  }
+}
+
+
 
 
 

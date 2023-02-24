@@ -16,9 +16,19 @@ h1{
   font-size: 84px;
   font-family: 'Inter';
 }
-h2{
-  font-size: 40px;
+
+@media (max-width: 500px) {
+  h2 {
+  font-size: 2rem;
   font-family: 'Inter';
+
+
+  }
+}
+h2{
+  font-size: 3rem;
+  font-family: 'Inter';
+  font-weight: 700;
 }
 h3{
   font-size: 30px;
