@@ -1,8 +1,8 @@
 
 .sectionClass{
-
+    align-items: center;
     display: flex;  
-    min-height: 60vh;
+    min-height: 40vh;
 }
 
 .blob{

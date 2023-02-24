@@ -1,32 +1,16 @@
 .about-container{
     border-radius: 10px;
     background-color: rgb(225, 225,225, 0.2) ;
-    min-width: 30rem;
-    max-width: 60rem;
-    margin: 2%;
-    padding: 2%;
+    width: 100%;
+  
+    margin: 4%;
+    padding: 1rem;
     text-align: start;
+  
   
 }
 
-@media screen and (min-width: 726px) {
-    .about-wrapper {
-      display: flex;
-      flex-direction: column;
-      
-      
-    }
-    .about-container{
-        border-radius: 10px;
-        background-color: rgb(225, 225,225, 0.2) ;
-        min-width: 30rem;
-        max-width: 60rem;
-        margin: 2%;
-        padding: 2%;
-        text-align: start;
-        justify-content: center;
-    }
-  }
+
 p{
     font-size: 20px;
 }
