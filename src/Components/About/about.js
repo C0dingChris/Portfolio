@@ -6,15 +6,15 @@ export default class about extends Component {
   render() {
     return (
       <div>
-        <h2>About Me</h2>
         <div className="about-wrapper">
+          <h2> </h2>
           <div className="profile-pic-container">
             <img className="pp" src={pp} alt="Chris Sanger" />
           </div>
           <div className="about-container">
             <p>
-              Full-stack developer with a passion for crafting visually stunning
-              and intuitive user-interfaces.
+              I'm Chris, a Full-stack developer with a passion for crafting
+              visually stunning and intuitive user-interfaces.
             </p>
             <br></br>
             <p>
