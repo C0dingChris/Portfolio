@@ -16,7 +16,7 @@ const projectsdata = [
     imgURL:
       "https://raw.githubusercontent.com/SchoolOfCode/bc13_w9_project-backend-team-granchio/main/HomePage.jpg",
     description:
-      "Rubbery Ducky is a platform where you can read, publish and comment completely anonymously. It is a platform aimed at allowing people to express problems, feelings, frustrations or just to have fun among us bootcamper peers. It also has an extra function that has the sole purpose of giving you feedback based on your mood.",
+      "AnonDuck, an anonymous chat application designed specifically for coding bootcampers to share their struggles with one another. I'm proud to have contributed to AnonDuck and to have had the opportunity to showcase my technical abilities while collaborating with a talented team of developers.",
     github:
       "https://github.com/SchoolOfCode/bc13_w9_project-frontend-team-granchio",
     liveLink: "https://granchio4ducky.netlify.app/",
@@ -25,9 +25,9 @@ const projectsdata = [
     id: "3",
     projectName: "API Space explorer",
     imgURL:
-      "https://i.pinimg.com/236x/92/12/18/9212184f170b32e6546bcd01b154a4ef.jpg",
+      "https://i.natgeofe.com/n/7e5a17ad-4e70-4bf5-a7b7-fdf2f625d5b8/01-solar-system-pia12114_orig_4x3.jpg",
     description:
-      "How do I render multiple elements in React? In Vue and React, we can only render one element. Even if we have multiple elements to render, there can only be a single root element. This means if we want to render two or more elements, we have to wrap them in another element or component. Commonly, the element used for this is a",
+      " REST API for searching planets. The goal was to create a simple and user-friendly platform for space enthusiasts to learn more about planets in our solar system. The API was built using Node.js, Express, and mySQL, with a front-end interface designed with React. The API allowed users to search for specific planets and receive detailed information about each one. The database included data such as the planet's name, distance from the sun, diameter, and more. ",
     github:
       "https://github.com/SchoolOfCode/bc13_w9_project-frontend-team-granchio",
     liveLink: "https://granchio4ducky.netlify.app/",

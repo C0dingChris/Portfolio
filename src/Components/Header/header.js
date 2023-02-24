@@ -9,8 +9,6 @@ export default class header extends Component {
         <div className="header-text">
           <h1>Chris Sanger</h1>
           <h3>Full Stack Developer</h3>
-        </div>
-        <div>
           <Blob></Blob>
         </div>
       </div>
