@@ -7,9 +7,9 @@ export default class spacer extends Component {
       <div className="spacer-wrapper">
         <svg
           id="visual"
-          viewBox="0 0 100% 500"
-          width="1920"
-          height="500"
+          viewBox="0 0 1920 500"
+          width="100%"
+          height="auto"
           xmlns="http://www.w3.org/2000/svg"
           version="1.1"
         >

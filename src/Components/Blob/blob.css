@@ -1,15 +1,18 @@
 
 .sectionClass{
-   position: static;
+
     display: flex;  
-    align-items: center;
     min-height: 60vh;
 }
 
 .blob{
     position:absolute;
-    width: 500px;
-    height: 500px;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
 }
 
 .blob:nth-child(2){

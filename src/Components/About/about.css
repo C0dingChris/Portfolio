@@ -12,7 +12,7 @@
 @media screen and (min-width: 726px) {
     .about-wrapper {
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       
       
     }
