@@ -11,6 +11,6 @@ Here's a list of the projects included in this portfolio:
 I am a software developer with experience in several programming languages and technologies. I am passionate about building efficient and scalable software solutions, and I'm always looking for new challenges to expand my skillset.
 
 <h1>Contact Me</h1>
-If you have any questions or comments about any of the projects included in this portfolio, or if you would like to discuss potential collaborations or job opportunities, please feel free to reach out to me via email at chris.sanger@outlook.com or via [LinkedIn](your LinkedIn profile link).
+If you have any questions or comments about any of the projects included in this portfolio, or if you would like to discuss potential collaborations or job opportunities, please feel free to reach out to me via email at chris.sanger@outlook.com or via LinkedIn.
 
 Thank you for visiting my portfolio!
