@@ -25,12 +25,11 @@ const projectsdata = [
     id: "3",
     projectName: "My Portfolio",
     imgURL:
-      "https://i.natgeofe.com/n/7e5a17ad-4e70-4bf5-a7b7-fdf2f625d5b8/01-solar-system-pia12114_orig_4x3.jpg",
+      "https://raw.githubusercontent.com/C0dingChris/Portfolio/main/portfolio-sc.jpg?token=GHSAT0AAAAAAB5DBXKFWOMUEAI4ESBFX4CUY7ZLQKQ",
     description:
-      " You are on it right now! This portfolio was created using React and is fully responive for mobile.",
-    github:
-      "https://github.com/SchoolOfCode/bc13_w9_project-frontend-team-granchio",
-    liveLink: "https://granchio4ducky.netlify.app/",
+      " You are on it right now! This portfolio was created using React, styled with tailwind and is fully responive for mobile devices.",
+    github: "https://github.com/C0dingChris/Portfolio",
+    liveLink: "https://chris-sanger.uk",
   },
   {
     id: "3",
