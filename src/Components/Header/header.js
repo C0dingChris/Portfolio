@@ -7,8 +7,8 @@ export default class header extends Component {
     return (
       <div className="header-wrapper">
         <div className="header-text">
-          <h2>Chris Sanger</h2>
-          <h2>Full Stack</h2>
+          <h2>I'm Chris,</h2>
+          <h2>a Full Stack</h2>
 
           <div className="glowbox">
             <h2 className="glowtext"> Developer.</h2>

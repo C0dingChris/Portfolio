@@ -4,6 +4,7 @@
   display: flex;
   margin-top: 8rem;
   flex-direction: row;
+  width: 55%;
  
     
 }
@@ -15,7 +16,6 @@
 
 
 .header-text{
-padding: 10px;
 flex: 80%;
 text-align: left;
 }
@@ -28,8 +28,15 @@ flex: 20%;
 @media (max-width: 500px) {
   .header-wrapper {
     flex-direction: column;
+    width: 80%;
+    justify-content: center;
+   
 
   }
+  .blob-container{
+    padding: 10px;
+    flex: 20%;
+    }
 }
 
 
