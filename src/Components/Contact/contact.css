@@ -1,0 +1,55 @@
+.contact-wrapper{
+    margin: 10%;
+    width: 70%;
+}
+
+
+.btn-round{
+    border-radius: 1000px;
+    background-color: rgba(0, 0, 0, 0.127);
+    
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.btn-round:hover{
+   border-color: #530dd6 2px;
+   background-color: black;
+}
+
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@media (max-width: 500px) {
+    .flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
+
+}
+
+.contact-square{
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-color: rgba(1, 1, 31, 0.238);
+    align-items: center;
+
+    width: 10rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 15px;
+}
+

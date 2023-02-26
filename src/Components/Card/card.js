@@ -11,12 +11,12 @@ export default function card(props) {
 
         <p class="text-start">{props.desc}</p>
         <div class="card-actions justify-center">
-          <a href={props.github}>
+          <a href={props.github} target="_blank" rel="noreferrer">
             <button class="btn btn-primary" href={props.github}>
               Github
             </button>
           </a>
-          <a href={props.link}>
+          <a href={props.link} target="_blank" rel="noreferrer">
             <button class="btn btn-primary">Live</button>
           </a>
         </div>
