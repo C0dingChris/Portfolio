@@ -20,8 +20,9 @@
     .about-container{
         border-radius: 10px;
         min-width: 95%;
+        font-size: small;
   
-        padding: 2%;
+        padding: 3%;
         text-align: start;
         justify-content: center;
     }

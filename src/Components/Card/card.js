@@ -7,9 +7,9 @@ export default function card(props) {
         <img src={props.image} alt="Project" />
       </figure>
       <div className="card-body">
-        <h2 class="card-title">{props.name}</h2>
+        <h2 class="card-title m-0">{props.name}</h2>
 
-        <p class="text-start">{props.desc}</p>
+        <p class="text-start m-0">{props.desc}</p>
         <div class="card-actions justify-center">
           <a href={props.github} target="_blank" rel="noreferrer">
             <button class="btn btn-primary" href={props.github}>

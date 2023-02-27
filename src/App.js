@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <Navbarr></Navbarr>
-
       <section id="home"></section>
       <Header></Header>
 

@@ -12,7 +12,7 @@ export default class header extends Component {
 
           <div className="glowbox">
             <h2 className="glowtext"> Developer.</h2>
-            <h2 className="glowtext"> ############</h2>
+            <h2 className="glowtext"> ########</h2>
           </div>
         </div>
         <div className="blob-container">
