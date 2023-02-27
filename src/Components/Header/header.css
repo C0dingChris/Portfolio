@@ -58,13 +58,14 @@
 }
 
 .header-text{
-flex: 80%;
+flex: 60%;
 text-align: left;
 }
 
 .blob-container{
-padding: 10px;
-flex: 20%;
+padding: 1rem;
+margin: 1rem;
+flex: 40%;
 }
 
 @media (max-width: 500px) {

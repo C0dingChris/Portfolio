@@ -13,11 +13,13 @@
     justify-content: center;
     align-items: center;
     z-index: 1;
+    margin-right: 20%;
 }
 .blob:hover{
     background-color: rgba(0, 123, 255, 0.133);
     filter: blur(80px);
-    filter:saturate()
+    filter:saturate();
+
 }
 
 @media (max-width: 500px) {
@@ -35,6 +37,6 @@
 }
 
 .blob:nth-child(2){
-    filter: blur(80px);
+    filter: blur(40px);
 
 }
