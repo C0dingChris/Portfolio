@@ -39,8 +39,9 @@ const projectsdata = [
     description:
       " REST API for searching planets. The goal was to create a simple and user-friendly platform for space enthusiasts to learn more about planets in our solar system. The API was built using Node.js, Express, and mySQL, with a front-end interface designed with React. The API allowed users to search for specific planets and receive detailed information about each one. The database included data such as the planet's name, distance from the sun, diameter, and more. ",
     github:
-      "https://github.com/SchoolOfCode/bc13_w9_project-frontend-team-granchio",
-    liveLink: "https://granchio4ducky.netlify.app/",
+      "https://github.com/SchoolOfCode/bc13_w5d5_hackathon-ben-and-chris-room-46",
+    liveLink:
+      "https://github.com/SchoolOfCode/bc13_w5d5_hackathon-ben-and-chris-room-46",
   },
 ];
 
