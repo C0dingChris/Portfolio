@@ -1,6 +1,6 @@
 .contact-wrapper{
-    margin: 10%;
-    width: 70%;
+    margin: 5%;
+    width: 80%;
 }
 
 
@@ -47,9 +47,14 @@
     background-color: rgba(1, 1, 31, 0.238);
     align-items: center;
 
-    width: 10rem;
+    width: 80%;
     padding: 1rem;
     margin: 1rem;
     border-radius: 15px;
 }
 
+.contact-para{
+    color: rgb(174, 178, 250);
+    margin: 1rem;
+    font-size: large;
+}

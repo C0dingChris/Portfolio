@@ -33,10 +33,14 @@ export default class contact extends Component {
               </button>
             </a>
 
-            {/* <p> Github</p> */}
+            <p className="contact-para">See more projects...</p>
           </div>
           <div className="contact-square">
-            <a href="https://outlook.com" target="_blank" rel="noreferrer">
+            <a
+              href="mailto:chris.sanger@outlook.com"
+              target="_blank"
+              rel="noreferrer"
+            >
               <button className="btn-round">
                 <svg
                   width="80px"
@@ -48,19 +52,13 @@ export default class contact extends Component {
                   <path
                     fill-rule="evenodd"
                     clip-rule="evenodd"
-                    d="M16 8H8C7.45 8 7.005 8.45 7.005 9L7 15C7 15.55 7.45 16 8 16H16C16.55 16 17 15.55 17 15V9C17 8.45 16.55 8 16 8ZM8.00001 9.99997L12 12.5L16 9.99997V15H8.00001V9.99997ZM8.00001 9.00001L12 11.5L16 9.00001H8.00001Z"
-                    fill="#530dd6"
-                  />
-                  <path
-                    fill-rule="evenodd"
-                    clip-rule="evenodd"
-                    d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20Z"
+                    d="M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12ZM7.005 9C7.005 8.45 7.45 8 8 8H16C16.55 8 17 8.45 17 9V15C17 15.55 16.55 16 16 16H8C7.45 16 7 15.55 7 15L7.005 9ZM12 12.5L8.00001 9.99997V15H16V9.99997L12 12.5ZM12 11.5L8.00001 9.00001H16L12 11.5Z"
                     fill="#530dd6"
                   />
                 </svg>
               </button>
             </a>
-            {/* <p> Email</p> */}
+            <p className="contact-para"> chris.sanger@outlook.com</p>
           </div>
 
           <div className="contact-square">
@@ -95,7 +93,7 @@ export default class contact extends Component {
                 </svg>
               </button>
             </a>
-            {/* <p> LinkedIn</p> */}
+            <p className="contact-para"> Connect with me!</p>
           </div>
         </div>
       </div>

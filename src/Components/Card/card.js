@@ -2,7 +2,7 @@ import React from "react";
 
 export default function card(props) {
   return (
-    <div class="card md:w-1/2 sm:w-80 bg-white/[.15]  shadow-xl m-5">
+    <div class="card md:w-1/2 sm:w-80 bg-white/[.08]  shadow-xl m-3">
       <figure className="card-image">
         <img src={props.image} alt="Project" />
       </figure>

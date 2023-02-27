@@ -9,11 +9,48 @@
     
 }
 
-.glowtext{
+
+.header-text h2 {
+  opacity: 0;
+  animation-name: fadeIn;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+.header-text h2:nth-child(1) {
+  animation-delay: 0/2s;
+}
+
+.header-text h2:nth-child(2) {
+  animation-delay: 2s;
+}
+
+.glowtext {
+  opacity: 0;
+  animation-name: fadeIn;
+  animation-duration: 1s;
+  animation-delay: 3s;
   color: blue;
+  animation-fill-mode:left;
+  
+
+
 }
 
 
+
+.glowtext:nth-child(2){
+  filter:blur(100px)
+
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 
 .header-text{
 flex: 80%;
