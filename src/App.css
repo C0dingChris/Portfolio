@@ -15,6 +15,7 @@
 h1{
   font-size: 84px;
   font-family: 'Inter';
+  color: black;
 }
 
 @media (max-width: 500px) {

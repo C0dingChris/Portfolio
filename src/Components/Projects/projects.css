@@ -10,3 +10,7 @@ align-self: center;
 .card{
     align-self: center;
 }
+
+.title{
+    margin: 1rem;
+}

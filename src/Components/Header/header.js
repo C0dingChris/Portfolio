@@ -15,6 +15,7 @@ export default class header extends Component {
             <h2 className="glowtext"> ########</h2>
           </div>
         </div>
+
         <div className="blob-container">
           <Blob></Blob>
         </div>

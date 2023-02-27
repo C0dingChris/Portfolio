@@ -25,10 +25,8 @@ function App() {
       <Projects></Projects>
       <Spacer></Spacer>
 
+      <br></br>
       <section id="contact"></section>
-      <br></br>
-
-      <br></br>
       <Contact></Contact>
     </div>
   );

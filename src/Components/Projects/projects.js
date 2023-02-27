@@ -19,7 +19,7 @@ export default class projects extends Component {
   render() {
     return (
       <>
-        <h2 className="">Projects</h2>
+        <h2 className="title">Projects</h2>
         <div className="card-wrapper">
           <div className="card">{projectsdata.map(createCard)}</div>
         </div>
