@@ -27,7 +27,7 @@ const projectsdata = [
     imgURL:
       "https://raw.githubusercontent.com/C0dingChris/Portfolio/main/portfolio-sc.jpg?token=GHSAT0AAAAAAB5DBXKFWOMUEAI4ESBFX4CUY7ZLQKQ",
     description:
-      " You are on it right now! This portfolio was created using React, styled with tailwind and is fully responive for mobile devices.",
+      " You are on it right now! This portfolio was created using React, styled with tailwind and is fully responsive for mobile devices.",
     github: "https://github.com/C0dingChris/Portfolio",
     liveLink: "https://chris-sanger.uk",
   },
@@ -38,10 +38,8 @@ const projectsdata = [
       "https://i.natgeofe.com/n/7e5a17ad-4e70-4bf5-a7b7-fdf2f625d5b8/01-solar-system-pia12114_orig_4x3.jpg",
     description:
       " REST API for searching planets. The goal was to create a simple and user-friendly platform for space enthusiasts to learn more about planets in our solar system. The API was built using Node.js, Express, and mySQL, with a front-end interface designed with React. The API allowed users to search for specific planets and receive detailed information about each one. The database included data such as the planet's name, distance from the sun, diameter, and more. ",
-    github:
-      "https://github.com/SchoolOfCode/bc13_w5d5_hackathon-ben-and-chris-room-46",
-    liveLink:
-      "https://github.com/SchoolOfCode/bc13_w5d5_hackathon-ben-and-chris-room-46",
+    github: "https://github.com/C0dingChris/Planet-Rest-API-Frontend",
+    liveLink: "https://github.com/C0dingChris/Planet-Rest-API-Frontend",
   },
 ];
 
