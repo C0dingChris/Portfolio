@@ -35,9 +35,9 @@ const projectsdata = [
     id: "3",
     projectName: "API Space explorer",
     imgURL:
-      "https://i.natgeofe.com/n/7e5a17ad-4e70-4bf5-a7b7-fdf2f625d5b8/01-solar-system-pia12114_orig_4x3.jpg",
+      "https://raw.githubusercontent.com/C0dingChris/Portfolio/main/src/Components/Assets/Planets.Rest%20API.jpg",
     description:
-      " REST API for searching planets. The goal was to create a simple and user-friendly platform for space enthusiasts to learn more about planets in our solar system. The API was built using Node.js, Express, and mySQL, with a front-end interface designed with React. The API allowed users to search for specific planets and receive detailed information about each one. The database included data such as the planet's name, distance from the sun, diameter, and more. ",
+      " REST API for searching planets. The goal was to create a simple and user-friendly platform for students to learn more about planets in our solar system. The API was built using Node.js, Express, and mySQL, with a front-end interface designed with React. The API allowed users to search for specific planets and receive detailed information about each one. The database included data such as the planet's name, distance from the sun, diameter, and more. ",
     github: "https://github.com/C0dingChris/Planet-Rest-API-Frontend",
     liveLink: "https://github.com/C0dingChris/Planet-Rest-API-Frontend",
   },
