@@ -9,6 +9,11 @@ const projectsdata = [
     github: "https://github.com/MikeChara/SpoilerAlertFrontEnd",
     liveLink:
       "https://expo.dev/@fat_arrow_faction/SpoilerAlert?serviceType=classic&distribution=expo-go",
+    skill1: "React Native",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "Figma",
+    skill5: "Trello",
   },
   {
     id: "2",
@@ -20,6 +25,11 @@ const projectsdata = [
     github:
       "https://github.com/SchoolOfCode/bc13_w9_project-frontend-team-granchio",
     liveLink: "https://granchio4ducky.netlify.app/",
+    skill1: "React.js",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "Figma",
+    skill5: "Trello",
   },
   {
     id: "3",
@@ -30,6 +40,11 @@ const projectsdata = [
       " You are on it right now! This portfolio was created using React, styled with tailwind and is fully responsive for mobile devices.",
     github: "https://github.com/C0dingChris/Portfolio",
     liveLink: "https://chris-sanger.uk",
+    skill1: "React.js",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "Responsive design",
+    skill5: "Figma",
   },
   {
     id: "3",
@@ -39,7 +54,12 @@ const projectsdata = [
     description:
       " REST API for searching planets. The goal was to create a simple and user-friendly platform for students to learn more about planets in our solar system. The API was built using Node.js, Express, and mySQL, with a front-end interface designed with React. The API allowed users to search for specific planets and receive detailed information about each one. The database included data such as the planet's name, distance from the sun, diameter, and more. ",
     github: "https://github.com/C0dingChris/Planet-Rest-API-Frontend",
-    liveLink: "https://github.com/C0dingChris/Planet-Rest-API-Frontend",
+    liveLink: "https://main--planets-rest.netlify.app/",
+    skill1: "React.js",
+    skill2: "HTML",
+    skill3: "CSS",
+    skill4: "REST APIs",
+    skill5: "Pair Programing",
   },
 ];
 

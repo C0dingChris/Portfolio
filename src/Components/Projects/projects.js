@@ -12,6 +12,11 @@ function createCard(project) {
       desc={project.description}
       github={project.github}
       link={project.liveLink}
+      skill1={project.skill1}
+      skill2={project.skill2}
+      skill3={project.skill3}
+      skill4={project.skill4}
+      skill5={project.skill5}
     />
   );
 }
