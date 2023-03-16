@@ -15,8 +15,9 @@ export default class contact extends Component {
               href="https://github.com/C0dingChris"
               target="_blank"
               rel="noreferrer"
+              alt="github"
             >
-              <button className="btn-round">
+              <button alt="github" className="btn-round">
                 <svg
                   width="70px"
                   height="70px"
@@ -40,8 +41,9 @@ export default class contact extends Component {
               href="mailto:chris.sanger@outlook.com"
               target="_blank"
               rel="noreferrer"
+              alt="email"
             >
-              <button className="btn-round">
+              <button alt="email" className="btn-round">
                 <svg
                   width="80px"
                   height="80px"
@@ -66,8 +68,9 @@ export default class contact extends Component {
               href="https://www.linkedin.com/in/chris-sanger/"
               target="_blank"
               rel="noreferrer"
+              alt="LinkedIn"
             >
-              <button className="btn-round">
+              <button alt="LinkedIn" className="btn-round">
                 <svg
                   width="70px"
                   height="70px"
