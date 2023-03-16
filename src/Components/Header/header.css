@@ -32,7 +32,7 @@
   animation-delay: 2s;
   color: blue;
   animation-fill-mode:left;
-  background: -webkit-linear-gradient(180deg, #0d1b36, blue);
+  background: -webkit-linear-gradient(180deg, rgb(159, 3, 138), rgb(0, 0, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   z-index: 1;
@@ -45,7 +45,7 @@
 
 
 .glowtext:nth-child(2){
-  filter:blur(50px)
+  filter:blur(100px)
 
 }
 @keyframes fadeIn {

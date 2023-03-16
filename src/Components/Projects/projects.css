@@ -1,11 +1,9 @@
 .card-wrapper{
-display: flex;
-flex-direction: column;
-align-self: center;
-
-
-
-}
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    
+    }
 
 .card{
     align-self: center;

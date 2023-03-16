@@ -1,5 +1,10 @@
 
-
+.card-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    
+    }
 .card-para{
     text-align: left;
 }
@@ -10,5 +15,8 @@
 
 .skills-wrapper{
     display: flex;
+    flex-direction: column;
+    width: 1rem;
 }
+
 

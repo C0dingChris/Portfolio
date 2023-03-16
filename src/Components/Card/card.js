@@ -8,8 +8,8 @@ export default function card(props) {
       </figure>
       <div className="card-body">
         <h2 class="card-title m-0">{props.name}</h2>
-
         <p class="text-start m-0">{props.desc}</p>
+
         <div className="skills-wrapper">
           <div class="badge badge-outline m-3">
             <p1>{props.skill1}</p1>
